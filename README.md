@@ -1,0 +1,3 @@
+# Optimal Market for Advertising E-Learning Products
+
+This project aims to identify the most promising markets for an e-learning company offering online courses in web development, mobile development, data science, and related fields. Through exploratory data analysis, I evaluate global trends in programming interest, learner demographics, and purchasing potential to recommend two to three optimal regions for advertising investment. The analysis is guided by key criteria: geographical distribution of new coders, willingness to pay for a monthly subscription, alignment of interests with the company’s offerings, English language accessibility, and insights into learning habits and demographic factors.
